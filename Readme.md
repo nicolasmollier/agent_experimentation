@@ -24,3 +24,8 @@ Path to conf: e.g. ```C:\Users\user\.Neo4jDesktop2\Data\dbmss\dbms-850417bd-1c53
 dbms.security.procedures.unrestricted=my.extensions.example,my.procedures.*,algo.*,apoc.*
 dbms.security.procedures.allowlist=apoc.*
 ```
+
+
+# Knowledge Graph
+
+![output/knowledge_graph_example.png](output/knowledge_graph_example.png)
